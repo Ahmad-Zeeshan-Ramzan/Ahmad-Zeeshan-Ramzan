@@ -1,4 +1,9 @@
-# 💫 About Me:
+# Hello, Everyone!
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360px"/>
+  
+
+### 💫 About Me:
 📚 I’m currently enrolled in SUPERIOR University;<br>🤝 I love to work on cutting-edge technologies;<br>🌱 I’m currently learning MERN Stack;<br>👨🏻‍💻 Most of my projects are available on Github<br>💬 Ask me about anything tech related, I am happy to help;<br>📫 Feel free to ping me on [LinkedIn](www.linkedin.com/in/zeeshan92322)<br>🔭 Love to play Cricket & Online games.
 
 
