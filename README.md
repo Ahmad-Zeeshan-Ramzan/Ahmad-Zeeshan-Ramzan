@@ -13,7 +13,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 # 📊 GitHub Stats:
 <p align="center">
-<a href="https://github.com/hamsof">
+<a href="https://github.com/Ahmad-Zeeshan-Ramzan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ahmad-Zeeshan-Ramzan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahmad-Zeeshan-Ramzan&layout=compact&langs_count=15&theme=algolia"/>
 </a>
