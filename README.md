@@ -5,7 +5,7 @@
 
 
 ### 💫 About Me:
-🎓 Graduated from Superior University<br>🎮 Currently working as a Game Developer at [Metadort]([www.linkedin.com/in/zeeshan92322](https://www.linkedin.com/company/metadort/mycompany/))<br>🚀 Passionate about game development and cutting-edge technologies<br>💬 Happy to help with anything game dev or tech-related<br>👨🏻‍💻 Most of my projects are available on Github<br>📫 Feel free to ping me on [LinkedIn](www.linkedin.com/in/zeeshan92322)<br>🔭 Love to play Cricket & Online games.
+🎓 Graduated from Superior University<br>🎮 Currently working as a Game Developer at [Metadort](https://www.linkedin.com/company/metadort/mycompany/](https://www.linkedin.com/company/metadort/))<br>🚀 Passionate about game development and cutting-edge technologies<br>💬 Happy to help with anything game dev or tech-related<br>👨🏻‍💻 Most of my projects are available on Github<br>📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/zeeshan92322/)<br>🔭 Love to play Cricket & Online games.
 
 
 <br>
